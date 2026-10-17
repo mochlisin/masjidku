@@ -17,10 +17,10 @@ android {
 
   defaultConfig {
     applicationId = "com.alijayanet.masjidkutv"
-    minSdk = 24
+    minSdk = 23
     targetSdk = 36
     versionCode = 7
-    versionName = "1.0.6"
+    versionName = "1.0.7-android6"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
